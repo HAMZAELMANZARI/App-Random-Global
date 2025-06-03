@@ -1,5 +1,3 @@
-I'll create an advanced README.md file for this project with comprehensive details. Here's the structured documentation:
-markdown
 
 # Random Generator Application
 
