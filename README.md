@@ -1,7 +1,7 @@
 
 # Random Generator Application
 
-![App Preview](preview.png) <!-- Add actual screenshot path later -->
+![App Preview]([https://hamzaelmanzari.github.io/App-Random-Global/]) <!-- Add actual screenshot path later -->
 
 A web application that generates three types of random sequences: numeric, alphabetic, and alphanumeric.
 
