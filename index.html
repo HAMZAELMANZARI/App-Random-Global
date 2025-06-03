@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App random</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="continer">
+        <div class="title">
+            <h1>App Random</h1>
+        </div>
+    </header>
+    <main class="continer">
+        <section class="num-random continer">
+            <h2>Input your Number digit range [1-12]</h2>
+            <div class="info">
+                <p class="pano-output" id="number"></p>
+                <input type="number" id="digit" value="6" placeholder="N">
+                <button class="button" onclick="appRndInteger()">Change</button>
+            </div>
+        </section>
+        <section class="num-random continer">
+            <h2>Input your Alpha range [1-12]</h2>
+            <div class="info">
+                <p class="pano-output" id="alpha"></p>
+                <input type="number" id="alpha-digit" value="6" placeholder="N">
+                <button class="button" onclick="appRndAlpha()">Change</button>
+            </div>
+        </section>
+        <section class="num-random continer">
+            <h2>Input your Global digit range [1-12]</h2>
+            <div class="info">
+                <p class="pano-output" id="global"></p>
+                <input type="number" id="global-digit" value="6" placeholder="N">
+                <button class="button" onclick="appRndGlobal()">Change</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        2025 &copy; Hamza El Manzari
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
