@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/dbccc33d-edd0-49d7-8d8e-05b5c9db61d6)
 # Random Generator
  Application
 ### Show you link : https://hamzaelmanzari.github.io/App-Random-Global/
@@ -203,3 +202,4 @@ html
 <p id="digit-help" class="sr-only">Enter a value between 1 and 12</p>
 
 This README provides comprehensive documentation while suggesting meaningful improvements to the existing codebase. The structure includes all essential sections for a professional project documentation while maintaining clarity and usefulness for both users and developers.
+
